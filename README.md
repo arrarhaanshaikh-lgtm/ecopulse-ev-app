@@ -1,6 +1,6 @@
 # ecopulse-ev-app
 EcoPulse EV - Dynamic Load-Balancing &amp; EV Slot Booking System.
-# ⚡ EcoPulse EV - Smart EV Charging & Load Balancing System
+# ⚡ EcoPulse EV - Smart EV Charging Station Locator & Load Balancing System
 
 > **Smart India Hackathon (SIH) Internal Hackathon Project**  
 > Developed by **Team BIOPULSE** 🚗⚡
