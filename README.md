@@ -34,7 +34,7 @@ With the rapid adoption of Electric Vehicles (EVs), charging infrastructure ofte
 * Primary Responsibility : UI Layouts, Map Integration & Booking Screens
 * **Shlok** : Backend Lead (Database & APIs) 
 * Primary Responsibility : DB Schema Design, Auth & Station APIs
-* **Aditi** : Backend Lead (Logic & Booking) 
+* **Shreya** : Backend Lead (Logic & Booking) 
 * Primary Responsibility : Slot Validation & Load-Balancing Logic
 * **Farhaan** : UI/UX Designer & Frontend Assist 
 * Primary Responsibility : Figma Wireframes, Styling & Presentation Slides
