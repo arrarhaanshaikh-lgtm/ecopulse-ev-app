@@ -1,0 +1,19 @@
+{
+  "stations": [
+    {"id":1,"station_name":"Nikol Charging Station - Koregaon Park","lat":18.5400125,"lng":73.8875625,"total_chargers":4,"available_chargers":2,"charger_type":"Fast","queue_count":2,"charger_types":["Fast CCS"]},
+    {"id":2,"station_name":"Bijlify Charging Station - Jangali Maharaj Road","lat":18.5150125,"lng":73.8300125,"total_chargers":4,"available_chargers":0,"charger_type":"Fast","queue_count":4,"charger_types":["Fast CCS"]},
+    {"id":3,"station_name":"Bijlify Charging Station - Kothrud","lat":18.5001125,"lng":73.8100625,"total_chargers":4,"available_chargers":3,"charger_type":"Fast","queue_count":1,"charger_types":["Fast CCS"]},
+    {"id":4,"station_name":"Bijlify Charging Station - Maharshi Nagar","lat":18.4875875,"lng":73.8575125,"total_chargers":4,"available_chargers":0,"charger_type":"Fast","queue_count":5,"charger_types":["Fast CCS"]},
+    {"id":5,"station_name":"Bijlify Charging Station - Ghole Road","lat":18.5225875,"lng":73.8450875,"total_chargers":4,"available_chargers":1,"charger_type":"Fast","queue_count":3,"charger_types":["Fast CCS"]},
+    {"id":6,"station_name":"Bijlify Charging Station - Dadawadi","lat":18.5001125,"lng":73.8550625,"total_chargers":4,"available_chargers":2,"charger_type":"Fast","queue_count":2,"charger_types":["Fast CCS"]},
+    {"id":7,"station_name":"Electric Vehicle Charging Station - Subhash Nagar","lat":18.5000875,"lng":73.8575125,"total_chargers":4,"available_chargers":0,"charger_type":"Slow","queue_count":4,"charger_types":["Slow Type 2"]},
+    {"id":8,"station_name":"Tata Power Charging Station - Agarkar Nagar","lat":18.5250875,"lng":73.8650625,"total_chargers":4,"available_chargers":3,"charger_type":"Fast","queue_count":1,"charger_types":["Fast CCS","Slow Type 2"]},
+    {"id":9,"station_name":"ChargeZone - ONYX 60KW","lat":18.5375375,"lng":73.9050625,"total_chargers":4,"available_chargers":0,"charger_type":"Fast","queue_count":5,"charger_types":["Fast CCS"]},
+    {"id":10,"station_name":"MSEDCL Baner - PowerUpEV 50KW","lat":18.55079,"lng":73.80522,"total_chargers":4,"available_chargers":1,"charger_type":"Fast","queue_count":3,"charger_types":["Fast CCS","Slow Type 2"]},
+    {"id":11,"station_name":"Vida EV Charging Station - Karve Statue Chowk","lat":18.502546,"lng":73.815097,"total_chargers":4,"available_chargers":4,"charger_type":"Slow","queue_count":0,"charger_types":["Slow Type 2"]},
+    {"id":12,"station_name":"Electric Vehicle Charging Station - Bund Garden","lat":18.5400125,"lng":73.8800875,"total_chargers":4,"available_chargers":2,"charger_type":"Slow","queue_count":2,"charger_types":["Slow Type 2"]},
+    {"id":13,"station_name":"Statiq - Seasons Mall Charging Station","lat":18.5194929,"lng":73.9315537,"total_chargers":4,"available_chargers":0,"charger_type":"Fast","queue_count":4,"charger_types":["Fast CCS"]},
+    {"id":14,"station_name":"Statiq Nexus Westend Mall Station","lat":18.5616924,"lng":73.8071678,"total_chargers":4,"available_chargers":3,"charger_type":"Fast","queue_count":1,"charger_types":["Fast CCS"]},
+    {"id":15,"station_name":"EV Dock Charging Station - City Center","lat":18.5299,"lng":73.8765,"total_chargers":4,"available_chargers":1,"charger_type":"Fast","queue_count":3,"charger_types":["Fast CCS","Slow Type 2"]}
+  ]
+}
